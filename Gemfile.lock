@@ -51,7 +51,7 @@ GEM
     protocol-http2 (0.13.3)
       protocol-hpack (~> 1.4)
       protocol-http (~> 0.18)
-    rack (2.2.2)
+    rack (3.0.4.1)
     samovar (2.1.4)
       console (~> 1.0)
       mapping (~> 1.0)
